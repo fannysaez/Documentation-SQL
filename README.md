@@ -109,3 +109,12 @@ CREATE TABLE `nom_de_la_table`(
 
 ) ENGINE = INNODB;
 ```
+Explication des commandes pour créer un Id Unique :
+
+```bash
+
+PRIMARY KEY --> Clé Unique
+AUTO_INCREMENT --> Ajout automatiquement un id '1,2,3' à chaque nouvelle ligne
+NOT NULL --> Ne peut pas être vide
+
+```
