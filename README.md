@@ -26,8 +26,13 @@ cd Documentation-SQL
 * Extraire des informations utiles grâce à des requêtes.
 * Utilisé dans de nombreux systèmes de gestion de bases de données (MySQL ...).
 
-### 🔹 Qu’est-ce qu’une base de données ?
-Une base de données est un ensemble structuré de données stockées et organisées de manière à faciliter leur accès et leur gestion.
+### 🔹 Qu’est-ce qu’une base de données (base de données relationnelles) ?
+Une base de données est un ensemble structuré de données stockées et organisées de manière à faciliter leur accès et leur gestion.<br>
+Une base de données relationnelle stocke des données sous forme de tables composées : 
+* lignes
+* colonnes<br>
+
+Chaque table possède une clé primaire qui identifie de manière unique chaque entrée.
 
 ## Installation et utilisation de WAMP sur Windows 🖥️
 
