@@ -57,6 +57,9 @@ phpMyAdmin est une interface web qui permet de gérer facilement les bases de do
 
 ### 🚀 Accéder à phpMyAdmin
 1. **Démarrer WAMP** et vérifier que l’icône est **verte**.
-2. Ouvrir un navigateur et entrer l’URL :  [localhost-PhpMyAdmin](http://localhost/phpmyadmin)
+2. Ouvrir un navigateur et entrer l’URL :  
 
+```bash
+http://localhost/phpmyadmin/
+```
 
