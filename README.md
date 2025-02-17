@@ -24,4 +24,27 @@ cd Documentation-SQL
 ### Pourquoi apprendre SQL ?<br>
 * Interagir avec des bases de données efficacement.
 * Extraire des informations utiles grâce à des requêtes.
-* Utilisé dans de nombreux systèmes de gestion de bases de données (MySQL, PostgreSQL, SQLite...).
+* Utilisé dans de nombreux systèmes de gestion de bases de données (MySQL ...).
+
+## 📌 Qu’est-ce qu’une base de données ?
+Une base de données est un ensemble structuré de données stockées et organisées de manière à faciliter leur accès et leur gestion.
+
+# Installation et utilisation de WAMP sur Windows 🖥️
+
+## 📌 Qu'est-ce que WAMP ?
+WAMP (*Windows, Apache, MySQL, PHP*) est un environnement de développement permettant d’exécuter un serveur web en local avec MySQL.
+
+## 🚀 Installation de WAMP<br>
+1. **Télécharger WAMP**  
+   - Rendez-vous sur le site officiel : [https://www.wampserver.com/](https://www.wampserver.com/)  
+   - Téléchargez la version correspondant à votre système (32 ou 64 bits).
+   - Installez-le en suivant les instructions.
+
+2. **Lancer WAMP**  
+   - Ouvrez WAMP et assurez-vous que l’icône devient **verte** (cela signifie que le serveur fonctionne).
+   - Accédez à phpMyAdmin via `http://localhost/phpmyadmin`.
+
+<!-- ## 🔹 Bases de données relationnelles
+Les bases de données relationnelles stockent des informations sous forme de **tables**, où :
+- Chaque table contient des **lignes (ou enregistrements)** et des **colonnes (ou champs)**.
+- Chaque table possède une **clé primaire** pour identifier de manière unique chaque ligne. -->
