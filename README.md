@@ -28,6 +28,7 @@ cd Documentation-SQL
 
 ### 🔹 Qu’est-ce qu’une base de données (base de données relationnelles) ?
 Une base de données est un ensemble structuré de données stockées et organisées de manière à faciliter leur accès et leur gestion.<br>
+
 Une base de données relationnelle stocke des données sous forme de tables composées : <br>
 * **lignes (ou enregistrements)**
 * **colonnes (ou champs)**<br>
@@ -56,6 +57,6 @@ phpMyAdmin est une interface web qui permet de gérer facilement les bases de do
 
 ### 🚀 Accéder à phpMyAdmin
 1. **Démarrer WAMP** et vérifier que l’icône est **verte**.
-2. Ouvrir un navigateur et entrer l’URL :  
+2. Ouvrir un navigateur et entrer l’URL :  [localhost-PhpMyAdmin](http://localhost/phpmyadmin)
 
 
