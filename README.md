@@ -152,6 +152,7 @@ SELECT * FROM `nom_de_la_table`;
 ```bash
 INSERT INTO `nom_de_la_table`(nom, email) VALUES ('Alice', 'alice@example.com');
 ```
+
 🔹 Mettre à jour des données `UPDATE`
 ```bash
 UPDATE `nom_de_la_table` SET email = 'nouveau@example.com' WHERE nom = 'Alice';
