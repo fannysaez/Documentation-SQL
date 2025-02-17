@@ -75,4 +75,18 @@ Mot de passe : (laisser vide par défaut)
 puis cliquez sur connexion
 ```
 
-### 📌 Comment créer sa base de données ?
+### 📌 Comment créer sa base de données ?<br>
+Création de la base de données en **requête SQL** via **terminal**<br>
+
+``` bash
+CREATE DATABASE manuelle
+DEFAULT CHARACTER SET utf8
+DEFAULT COLLATE utf8_general_ci;
+puis EXECUTER
+```
+
+Cette commande permet de 
+``` bash 
+créer une base de données appelée manuelle
+``` 
+avec le bon interclassement (utf8_general_ci)
