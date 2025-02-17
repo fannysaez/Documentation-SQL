@@ -144,19 +144,19 @@ NOT NULL --> Ne peut pas être vide
 
 ### 4. Exemples pratiques de requêtes SQL 📊
 
-🔹 Sélectionner toutes les données d’une table
+🔹 Sélectionner `SELECT` toutes les données `*` d’une table
 ```bash
 SELECT * FROM `nom_de_la_table`;
 ```
-🔹 Insérer des nouvelles données 
+🔹 Insérer `INSERT INTO` des nouvelles données 
 ```bash
 INSERT INTO `nom_de_la_table`(nom, email) VALUES ('Alice', 'alice@example.com');
 ```
-🔹 Mettre à jour une donnée
+🔹 Mettre à jour des données `UPDATE`
 ```bash
 UPDATE `nom_de_la_table` SET email = 'nouveau@example.com' WHERE nom = 'Alice';
 ```
-🔹 Supprimer des données
+🔹 Supprimer des données `DELETE FROM`
 ```bash
 DELETE FROM `nom_de_la_table` WHERE nom = 'Alice';
 ```
@@ -166,4 +166,68 @@ DELETE FROM `nom_de_la_table` WHERE nom = 'Alice';
 🔹 Sélectionner des colonnes spécifiques `SELECT` et `FROM`
 ```bash
 SELECT nom, email FROM `nom_de_la_table`;
+```
+
+🔹 Filtrer les résultats avec `WHERE`
+```bash
+SELECT * FROM `nom_de_la_table WHERE nom = 'Alice';
+```
+
+🔹 Trier les résultats avec `ORDER BY`
+```bash
+SELECT * FROM `nom_de_la_table` ORDER BY nom ASC;
+```
+
+🔹 Limiter le nombre de résultats avec `LIMIT`
+```bash
+SELECT * FROM `nom_de_la_table`s LIMIT 5;
+```
+
+🔹 Compter le nombre d’utilisateurs avec `COUNT`
+```bash
+SELECT COUNT(*) FROM `nom_de_la_table`;
+```
+
+🔹 Calculer la `moyenne` d’une colonne
+```bash
+SELECT AVG(age) FROM `nom_de_la_table`;
+```
+
+🔹 Trouver la valeur minimale `MIN` et maximale `MAX` d’une colonne
+```bash
+SELECT MIN(age) FROM `nom_de_la_table`;
+SELECT MAX(age) FROM `nom_de_la_table`;
+```
+
+🔹 Filtrer avec `LIKES`
+```bash
+SELECT * FROM `nom_de_la_table` WHERE nom LIKE 'A%';
+SELECT * FROM 
+```
+
+🔹 Utilisation de `OR` et `AND`
+```bash
+SELECT * FROM `nom_de_la_table` WHERE nom = 'Alice' OR nom = 'Bob';
+SELECT * FROM `nom_de_la_table` WHERE nom = 'Alice' AND email LIKE '%@gmail.com';
+```
+
+🔹 Regrouper les résultats avec `GROUP BY`
+```bash
+SELECT email, COUNT(*) FROM `nom_de_la_table` GROUP BY email;
+``` 
+
+🔹 Filtrer des groupes avec `HAVING`
+```bash
+SELECT email, COUNT(*) FROM `nom_de_la_table` GROUP BY email HAVING COUNT(*) > 1;
+```
+
+🔹 Utiliser `INNER JOIN` pour lier des tables
+```bash
+SELECT utilisateurs.nom, commandes.produit FROM utilisateurs
+INNER JOIN commandes ON utilisateurs.id = commandes.utilisateur_id;
+```
+
+🔹 Concatenation de colonnes avec `CONCAT`
+```bash
+SELECT CONCAT(nom, ' ', email) AS nom_email FROM `nom_de_la_table`;
 ```
