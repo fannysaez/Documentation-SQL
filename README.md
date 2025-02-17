@@ -28,11 +28,11 @@ cd Documentation-SQL
 
 ### 🔹 Qu’est-ce qu’une base de données (base de données relationnelles) ?
 Une base de données est un ensemble structuré de données stockées et organisées de manière à faciliter leur accès et leur gestion.<br>
-Une base de données relationnelle stocke des données sous forme de tables composées : 
-* lignes
-* colonnes<br>
+Une base de données relationnelle stocke des données sous forme de tables composées : <br>
+* **lignes (ou enregistrements)**
+* **colonnes (ou champs)**<br>
 
-Chaque table possède une clé primaire qui identifie de manière unique chaque entrée.
+Chaque table possède une **clé primaire** pour identifier de manière unique chaque ligne.
 
 ## Installation et utilisation de WAMP sur Windows 🖥️
 
@@ -59,7 +59,3 @@ phpMyAdmin est une interface web qui permet de gérer facilement les bases de do
 2. Ouvrir un navigateur et entrer l’URL :  
 
 
-<!-- ## 🔹 Bases de données relationnelles
-Les bases de données relationnelles stockent des informations sous forme de **tables**, où :
-- Chaque table contient des **lignes (ou enregistrements)** et des **colonnes (ou champs)**.
-- Chaque table possède une **clé primaire** pour identifier de manière unique chaque ligne. -->
