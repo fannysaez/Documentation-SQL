@@ -14,6 +14,6 @@ cd Documentation-SQL
 
 ## 🗂️ 1. Structure de la documentation SQL
 ```bash
-📂 sql-documentation
+📂 Documentation-SQL
 │── 📄 README.md         # Introduction et guide d'utilisation
 ```
