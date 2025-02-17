@@ -26,6 +26,8 @@ cd Documentation-SQL
 * Extraire des informations utiles grâce à des requêtes.
 * Utilisé dans de nombreux systèmes de gestion de bases de données (MySQL ...).
 
+[Documentation sur SQL](https://fr.khanacademy.org/computing/computer-programming/sql-documentation)
+
 ### 🔹 Qu’est-ce qu’une base de données (base de données relationnelles) ?
 Une base de données est un ensemble structuré de données stockées et organisées de manière à faciliter leur accès et leur gestion.<br>
 
@@ -74,6 +76,16 @@ Utilisateur : root
 Mot de passe : (laisser vide par défaut)
 puis cliquez sur connexion
 ```
+
+### ⌨️ Quelques commandes SQL essentielles :
+
+| Commande | Description |
+|----------|------------|
+| `SELECT` | Récupère des données d'une table |
+| `INSERT INTO` | Ajoute de nouvelles données |
+| `UPDATE` | Met à jour des données existantes |
+| `DELETE` | Supprime des données |
+
 
 ### 📌 Comment créer la base de données ?<br>
 Création de la base de données en **requête SQL** via **terminal**<br>
