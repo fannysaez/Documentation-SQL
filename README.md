@@ -72,7 +72,7 @@ http://localhost/phpmyadmin/
 ``` bash
 Utilisateur : root
 Mot de passe : (laisser vide par défaut)
-puis cliquiez sur connexion
+puis cliquez sur connexion
 ```
 
 ### Comment créer sa base de données
