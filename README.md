@@ -87,6 +87,10 @@ puis cliquez sur connexion
 | `UPDATE` | Met à jour des données existantes |
 | `DELETE` | Supprime des données |
 
+### Explication de l'onglet>Concepteur :
+
+* Le concepteur permet de visualiser et de modifier les relations entre les tables de la base de données de manière intuitive et graphique.
+* Il offre une vue d'ensemble des structures de tables et de leurs connexions, facilitant ainsi la gestion et l'optimisation des bases de données.
 
 ### 📌 Comment créer la base de données ?<br>
 Création de la base de données en **requête SQL** via **terminal**<br>
