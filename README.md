@@ -19,7 +19,7 @@ cd Documentation-SQL
 ```
 
 ## Introduction à SQL 🛠️<br>
- SQL (Structured Query Language) est un langage utilisé pour manipuler et gérer les bases de données relationnelles.
+ **SQL** (**S**tructured **Q**uery **L**anguage) est un langage utilisé pour manipuler et gérer les bases de données relationnelles.
 
 ### Pourquoi apprendre SQL ?<br>
 * Interagir avec des bases de données efficacement.
