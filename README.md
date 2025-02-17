@@ -75,4 +75,4 @@ Mot de passe : (laisser vide par défaut)
 puis cliquez sur connexion
 ```
 
-### Comment créer sa base de données
+### 📌 Comment créer sa base de données ?
