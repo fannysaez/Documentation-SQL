@@ -79,14 +79,14 @@ puis cliquez sur connexion
 Création de la base de données en **requête SQL** via **terminal**<br>
 
 ``` bash
-CREATE DATABASE manuelle
+CREATE DATABASE `manuelle`
 DEFAULT CHARACTER SET utf8
 DEFAULT COLLATE utf8_general_ci;
-puis EXECUTER
 ```
+puis EXECUTER<br>
 
 Cette commande permet de 
 ``` bash 
-créer une base de données appelée manuelle
+créer une base de données appelée 'manuelle'
 ``` 
 avec le bon interclassement (utf8_general_ci)
