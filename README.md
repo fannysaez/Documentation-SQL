@@ -108,8 +108,9 @@ CREATE TABLE `nom_de_la_table`(
     description TEXT NULL
 
 ) ENGINE = INNODB;
-```
-Explication des commandes pour créer un Id Unique :
+``` 
+
+a) - Explication des commandes pour créer un Id Unique :
 
 ```bash
 
