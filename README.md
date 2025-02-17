@@ -110,7 +110,7 @@ CREATE TABLE `nom_de_la_table`(
 ) ENGINE = INNODB;
 ``` 
 
-a) - Explication des commandes pour créer un Id Unique :
+### a) - Explication des commandes pour créer un Id Unique :
 
 ```bash
 
