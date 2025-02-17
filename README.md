@@ -48,7 +48,6 @@ WAMP (*Windows, Apache, MySQL, PHP*) est un environnement de développement perm
 
 2. **Lancer WAMP**  
    - Ouvrez WAMP et assurez-vous que l’icône devient **verte** (cela signifie que le serveur fonctionne).
-   - Accédez à phpMyAdmin via `http://localhost/phpmyadmin`.
 
 ## phpMyAdmin : Interface web pour MySQL 🖥️
 
