@@ -51,8 +51,8 @@ WAMP (*Windows, Apache, MySQL, PHP*) est un environnement de développement perm
    - Clique gauche sur l'icone **verte**
 
    ``` bash 
-    "Allez sur PhpMyAdmin"
-    "puis de nouveaux cliquez sur phpMyAdmin 5.2.1"
+    Allez sur PhpMyAdmin
+    puis de nouveaux cliquez sur phpMyAdmin 5.2.1
    ```
 
 ## phpMyAdmin : Interface web pour MySQL 🖥️
@@ -67,10 +67,10 @@ phpMyAdmin est une interface web qui permet de gérer facilement les bases de do
 ```bash
 http://localhost/phpmyadmin/
 ```
-3. Se connecter avec :
+3. Se connecter avec PhpMyAdmin(MySQL):
 
 ``` bash
 Utilisateur : root
-Mot de passe : ('laisser vide par défaut')
+Mot de passe : (laisser vide par défaut)
 ```
 
