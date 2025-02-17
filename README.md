@@ -67,4 +67,10 @@ phpMyAdmin est une interface web qui permet de gérer facilement les bases de do
 ```bash
 http://localhost/phpmyadmin/
 ```
+3. Se connecter avec :
+
+``` bash
+Utilisateur : root
+Mot de passe : ('laisser vide par défaut')
+```
 
