@@ -160,3 +160,10 @@ UPDATE `nom_de_la_table` SET email = 'nouveau@example.com' WHERE nom = 'Alice';
 ```bash
 DELETE FROM `nom_de_la_table` WHERE nom = 'Alice';
 ```
+
+### Comment manipuler les différentes requêtes  ?
+
+🔹 Sélectionner des colonnes spécifiques
+```bash
+SELECT nom, email FROM `nom_de_la_table`;
+```
