@@ -44,6 +44,15 @@ WAMP (*Windows, Apache, MySQL, PHP*) est un environnement de développement perm
    - Ouvrez WAMP et assurez-vous que l’icône devient **verte** (cela signifie que le serveur fonctionne).
    - Accédez à phpMyAdmin via `http://localhost/phpmyadmin`.
 
+# phpMyAdmin : Interface web pour MySQL 🖥️
+
+## 📌 Qu’est-ce que phpMyAdmin ?
+phpMyAdmin est une interface web qui permet de gérer facilement les bases de données MySQL.
+
+## 🚀 Accéder à phpMyAdmin
+1. **Démarrer WAMP** et vérifier que l’icône est **verte**.
+2. Ouvrir un navigateur et entrer l’URL :  
+
 <!-- ## 🔹 Bases de données relationnelles
 Les bases de données relationnelles stockent des informations sous forme de **tables**, où :
 - Chaque table contient des **lignes (ou enregistrements)** et des **colonnes (ou champs)**.
