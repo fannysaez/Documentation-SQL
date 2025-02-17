@@ -148,7 +148,7 @@ NOT NULL --> Ne peut pas être vide
 ```bash
 SELECT * FROM `nom_de_la_table`;
 ```
-🔹 Insérer un nouvel utilisateur
+🔹 Insérer des nouvelles données 
 ```bash
 INSERT INTO `nom_de_la_table`(nom, email) VALUES ('Alice', 'alice@example.com');
 ```
@@ -156,7 +156,7 @@ INSERT INTO `nom_de_la_table`(nom, email) VALUES ('Alice', 'alice@example.com');
 ```bash
 UPDATE `nom_de_la_table` SET email = 'nouveau@example.com' WHERE nom = 'Alice';
 ```
-🔹 Supprimer un utilisateur
+🔹 Supprimer des données
 ```bash
 DELETE FROM `nom_de_la_table` WHERE nom = 'Alice';
 ```
