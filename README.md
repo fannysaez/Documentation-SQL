@@ -201,8 +201,14 @@ SELECT MAX(age) FROM `nom_de_la_table`;
 
 🔹 Filtrer avec `LIKES`
 ```bash
-SELECT * FROM `nom_de_la_table` WHERE nom LIKE 'A%';
-SELECT * FROM 
+'le caractère “%” est un caractère joker qui remplace tous les autres caractères. Ainsi, ce modèle permet de rechercher toutes les chaines de caractère qui se termine par un “A”.'
+SELECT * FROM `nom_de_la_table` WHERE nom LIKE '%A';
+
+'ce modèle permet de rechercher toutes les lignes de “colonne” qui commence par un “a”.'
+SELECT * FROM `nom_de_la_table` WHERE nom LIKE 'a%;
+
+'ce modèle est utilisé pour rechercher tous les enregistrement qui utilisent le caractère “a”.'
+SELECT * FROM `nom_de_la_table` WHERE nom LIKE '%a%';
 ```
 
 🔹 Utilisation de `OR` et `AND`
