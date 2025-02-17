@@ -95,6 +95,9 @@ puis cliquez sur connexion
 ### 📌 Comment créer la base de données ?<br>
 Création de la base de données en **requête SQL** via **terminal**<br>
 
+📝 Exécuter une requête SQL
+
+Dans l’onglet SQL, entrez une commande 
 ``` bash
 CREATE DATABASE `nom_de_la_base_de_donnée`
 DEFAULT CHARACTER SET utf8
@@ -110,6 +113,8 @@ créer une base de données appelée 'nom de la base'
 avec le bon interclassement (utf8_general_ci)
 
 ### 📌 Comment créer la table ?<br>
+
+📝 Exécuter une requête SQL
 
 ``` bash
 CREATE TABLE `nom_de_la_table`(
@@ -135,4 +140,23 @@ PRIMARY KEY --> Clé Unique
 AUTO_INCREMENT --> Ajout automatiquement un id '1,2,3' à chaque nouvelle ligne
 NOT NULL --> Ne peut pas être vide
 
+```
+
+### 4. Exemples pratiques de requêtes SQL 📊
+
+🔹 Sélectionner toutes les données d’une table
+```bash
+SELECT * FROM `nom_de_la_table`;
+```
+🔹 Insérer un nouvel utilisateur
+```bash
+INSERT INTO `nom_de_la_table`(nom, email) VALUES ('Alice', 'alice@example.com');
+```
+🔹 Mettre à jour une donnée
+```bash
+UPDATE `nom_de_la_table` SET email = 'nouveau@example.com' WHERE nom = 'Alice';
+```
+🔹 Supprimer un utilisateur
+```bash
+DELETE FROM `nom_de_la_table` WHERE nom = 'Alice';
 ```
