@@ -163,7 +163,7 @@ DELETE FROM `nom_de_la_table` WHERE nom = 'Alice';
 
 ### 📌 Comment manipuler les différentes requêtes  ?
 
-🔹 Sélectionner des colonnes spécifiques
+🔹 Sélectionner des colonnes spécifiques `SELECT` et `FROM`
 ```bash
 SELECT nom, email FROM `nom_de_la_table`;
 ```
