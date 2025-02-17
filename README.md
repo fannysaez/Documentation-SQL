@@ -75,11 +75,11 @@ Mot de passe : (laisser vide par défaut)
 puis cliquez sur connexion
 ```
 
-### 📌 Comment créer sa base de données ?<br>
+### 📌 Comment créer la base de données ?<br>
 Création de la base de données en **requête SQL** via **terminal**<br>
 
 ``` bash
-CREATE DATABASE `nom de la base de donnée`
+CREATE DATABASE `nom_de_la_base_de_donnée`
 DEFAULT CHARACTER SET utf8
 DEFAULT COLLATE utf8_general_ci;
 
@@ -91,3 +91,21 @@ Cette commande permet de
 créer une base de données appelée 'nom de la base'
 ``` 
 avec le bon interclassement (utf8_general_ci)
+
+### 📌 Comment créer la table ?<br>
+
+``` bash
+CREATE TABLE `nom_de_la_table`(
+
+    id INT PRIMARY KEY AUTO_INCREMENT NOT NULL,
+    label VARCHAR(255) NOT NULL,
+    title VARCHAR(255) NOT NULL,
+    first_name VARCHAR(255) NOT NULL,
+    last_name VARCHAR(255) NOT NULL,
+    duration INT NULL,
+    lauch_at DATE NULL,
+    birth_at DATE NULL,
+    description TEXT NULL
+
+) ENGINE = INNODB;
+```
