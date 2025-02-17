@@ -31,7 +31,7 @@ Une base de données est un ensemble structuré de données stockées et organis
 
 ## Installation et utilisation de WAMP sur Windows 🖥️
 
-### 🔹 Qu'est-ce que WAMP ?
+### 📌 Qu'est-ce que WAMP ?
 WAMP (*Windows, Apache, MySQL, PHP*) est un environnement de développement permettant d’exécuter un serveur web en local avec MySQL.
 
 ### 🚀 Installation de WAMP<br>
