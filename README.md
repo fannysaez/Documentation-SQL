@@ -18,17 +18,20 @@ cd Documentation-SQL
 │── 📄 README.md         # Introduction et guide d'utilisation
 ```
 
-## Introduction à SQL 🛠️<br>
+## 1- Introduction à SQL 🛠️<br>
  **SQL** (**S**tructured **Q**uery **L**anguage) est un langage utilisé pour manipuler et gérer les bases de données relationnelles.
 
-### Pourquoi apprendre SQL ?<br>
+### 📌 Pourquoi apprendre SQL ?<br>
 * Interagir avec des bases de données efficacement.
 * Extraire des informations utiles grâce à des requêtes.
 * Utilisé dans de nombreux systèmes de gestion de bases de données (MySQL ...).
 
+### 🔹 Qu’est-ce qu’une base de données ?
+Une base de données est un ensemble structuré de données stockées et organisées de manière à faciliter leur accès et leur gestion.
+
 ## Installation et utilisation de WAMP sur Windows 🖥️
 
-### 📌 Qu'est-ce que WAMP ?
+### 🔹 Qu'est-ce que WAMP ?
 WAMP (*Windows, Apache, MySQL, PHP*) est un environnement de développement permettant d’exécuter un serveur web en local avec MySQL.
 
 ### 🚀 Installation de WAMP<br>
@@ -50,8 +53,6 @@ phpMyAdmin est une interface web qui permet de gérer facilement les bases de do
 1. **Démarrer WAMP** et vérifier que l’icône est **verte**.
 2. Ouvrir un navigateur et entrer l’URL :  
 
-### 📌 Qu’est-ce qu’une base de données ?
-Une base de données est un ensemble structuré de données stockées et organisées de manière à faciliter leur accès et leur gestion.
 
 <!-- ## 🔹 Bases de données relationnelles
 Les bases de données relationnelles stockent des informations sous forme de **tables**, où :
