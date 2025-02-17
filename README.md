@@ -233,7 +233,7 @@ SELECT email, COUNT(*) FROM `nom_de_la_table` GROUP BY email HAVING COUNT(*) > 1
 
 🔹 Utiliser `INNER JOIN` pour lier des tables
 ```bash
-SELECT utilisateurs.nom, commandes.produit FROM utilisateurs
+SELECT utilisateurs.nom, commandes.produit FROM `nom_de_la_table`
 INNER JOIN commandes ON utilisateurs.id = commandes.utilisateur_id;
 ```
 
