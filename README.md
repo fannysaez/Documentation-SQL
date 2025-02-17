@@ -27,6 +27,7 @@ cd Documentation-SQL
 * Utilisé dans de nombreux systèmes de gestion de bases de données (MySQL ...).
 
 [Documentation sur SQL](https://fr.khanacademy.org/computing/computer-programming/sql-documentation)
+[les bases du SQL](https://fr.khanacademy.org/computing/computer-programming/sql)
 
 ### 🔹 Qu’est-ce qu’une base de données (base de données relationnelles) ?
 Une base de données est un ensemble structuré de données stockées et organisées de manière à faciliter leur accès et leur gestion.<br>
