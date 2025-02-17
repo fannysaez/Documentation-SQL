@@ -82,8 +82,9 @@ Création de la base de données en **requête SQL** via **terminal**<br>
 CREATE DATABASE `nom de la base de donnée`
 DEFAULT CHARACTER SET utf8
 DEFAULT COLLATE utf8_general_ci;
+
+puis clique sur le bouton 'Exécuter'
 ```
-puis EXECUTER<br>
 
 Cette commande permet de 
 ``` bash 
