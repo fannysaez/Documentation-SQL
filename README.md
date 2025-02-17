@@ -26,9 +26,6 @@ cd Documentation-SQL
 * Extraire des informations utiles grâce à des requêtes.
 * Utilisé dans de nombreux systèmes de gestion de bases de données (MySQL ...).
 
-### 📌 Qu’est-ce qu’une base de données ?
-Une base de données est un ensemble structuré de données stockées et organisées de manière à faciliter leur accès et leur gestion.
-
 ## Installation et utilisation de WAMP sur Windows 🖥️
 
 ### 📌 Qu'est-ce que WAMP ?
@@ -52,6 +49,9 @@ phpMyAdmin est une interface web qui permet de gérer facilement les bases de do
 ### 🚀 Accéder à phpMyAdmin
 1. **Démarrer WAMP** et vérifier que l’icône est **verte**.
 2. Ouvrir un navigateur et entrer l’URL :  
+
+### 📌 Qu’est-ce qu’une base de données ?
+Une base de données est un ensemble structuré de données stockées et organisées de manière à faciliter leur accès et leur gestion.
 
 <!-- ## 🔹 Bases de données relationnelles
 Les bases de données relationnelles stockent des informations sous forme de **tables**, où :
