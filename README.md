@@ -161,7 +161,7 @@ UPDATE `nom_de_la_table` SET email = 'nouveau@example.com' WHERE nom = 'Alice';
 DELETE FROM `nom_de_la_table` WHERE nom = 'Alice';
 ```
 
-### Comment manipuler les différentes requêtes  ?
+### 📌 Comment manipuler les différentes requêtes  ?
 
 🔹 Sélectionner des colonnes spécifiques
 ```bash
