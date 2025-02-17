@@ -1,6 +1,6 @@
 ## Procédure d'installation de git clone pour la documentation SQL
 
-## Cloner le dépôt GitHub :
+### Cloner le dépôt GitHub :
 - Ouvrez l'invite de commande <b>(cmd)</b> ou <b>Git Bash.</b><br><br>
 
 * Commencez par cloner le dépôt sur votre machine locale :<br>
@@ -12,5 +12,8 @@ git clone https://github.com/fannysaez/Documentation-SQL.git
 cd Documentation-SQL
 ```
 
-<!-- # Documentation-SQL
-Création de documentation en SQL (travail collaboratif) -->
+## 🗂️ 1. Structure de la documentation SQL
+```bash
+📂 sql-documentation
+│── 📄 README.md         # Introduction et guide d'utilisation
+```
