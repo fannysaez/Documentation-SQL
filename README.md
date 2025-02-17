@@ -12,7 +12,7 @@ git clone https://github.com/fannysaez/Documentation-SQL.git
 cd Documentation-SQL
 ```
 
-# 🗂️ 1. Structure de la documentation SQL
+## 🗂️ 1. Structure de la documentation SQL
 ```bash
 📂 Documentation-SQL
 │── 📄 README.md         # Introduction et guide d'utilisation
