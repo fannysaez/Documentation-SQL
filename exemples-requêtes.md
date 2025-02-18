@@ -149,4 +149,4 @@ INNER JOIN commandes ON utilisateurs.id = commandes.utilisateur_id;
 SELECT CONCAT(nom, ' ', email) AS nom_email FROM `nom_de_la_table`;
 ```
 
-[Retour](README.md)
+[Précédent](commandes-SQL.md) | [Suivant](assets/liens-utiles.md)
