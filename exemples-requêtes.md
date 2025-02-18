@@ -12,10 +12,7 @@ DEFAULT COLLATE utf8_general_ci;
 puis clique sur le bouton 'Exécuter'
 ```
 
-Cette commande permet de 
-``` bash 
-créer une base de données appelée 'nom de la base'
-``` 
+Cette commande permet de créer une base de données appelée 'nom de la base'<br>
 avec le bon interclassement (utf8_general_ci)
 
 ### 📌 Comment créer la table ?<br>
@@ -43,12 +40,12 @@ CREATE TABLE `nom_de_la_table`(
 ```bash
 
 PRIMARY KEY --> Clé Unique
-AUTO_INCREMENT --> Ajout automatiquement un id '1,2,3' à chaque nouvelle ligne
+AUTO_INCREMENT --> Ajoute automatiquement un ID incrémenté 1,2,3 à chaque nouvelle ligne
 NOT NULL --> Ne peut pas être vide
 
 ```
 
-### 4. Exemples pratiques de requêtes SQL 📊
+### 4. 📊Exemples pratiques de requêtes SQL 
 
 🔹 Sélectionner `SELECT` toutes les données `*` d’une table
 ```bash
@@ -77,7 +74,7 @@ SELECT nom, email FROM `nom_de_la_table`;
 
 🔹 Filtrer les résultats avec `WHERE`
 ```bash
-SELECT * FROM `nom_de_la_table WHERE nom = 'Alice';
+SELECT * FROM `nom_de_la_table` WHERE nom = 'Alice';
 ```
 
 🔹 Trier les résultats avec `ORDER BY`
@@ -95,6 +92,8 @@ SELECT * FROM `nom_de_la_table`s LIMIT 5;
 SELECT COUNT(*) FROM `nom_de_la_table`;
 ```
 
+### 📊 Fonctions d'agrégation<br>
+
 🔹 Calculer la `moyenne` d’une colonne
 ```bash
 SELECT AVG(age) FROM `nom_de_la_table`;
@@ -106,47 +105,48 @@ SELECT MIN(age) FROM `nom_de_la_table`;
 SELECT MAX(age) FROM `nom_de_la_table`;
 ```
 
-🔹 Filtrer avec `LIKES`
+📌 Filtrer avec `LIKES`
 
-le caractère % est un caractère joker qui remplace tous les autres caractères.
-Ainsi, ce modèle permet de rechercher toutes les chaines de caractère qui se termine par un “A”.
+Le caractère % est un caractère joker qui remplace tous les autres caractères.
+* Rechercher toutes les chaines de caractère qui se termine par un “A”.<br>
+
 ```bash
 SELECT * FROM `nom_de_la_table` WHERE nom LIKE '%A';
 ```
-Ce modèle permet de rechercher toutes les lignes de “colonne” qui commence par un “a”.
+* Rechercher toutes les lignes de “colonne” qui commence par un “a”.
 ```bash
 SELECT * FROM `nom_de_la_table` WHERE nom LIKE 'a%;
 ```
-Ce modèle est utilisé pour rechercher tous les enregistrement qui utilisent le caractère “a”.
+* Rechercher tous les enregistrement qui utilisent le caractère “a”.
 ```bash
 SELECT * FROM `nom_de_la_table` WHERE nom LIKE '%a%';
 ```
 
-🔹 Utilisation de `OR` et `AND`
+#### 📌 Utilisation de `OR` et `AND`
 ```bash
 SELECT * FROM `nom_de_la_table` WHERE nom = 'Alice' OR nom = 'Bob';
 SELECT * FROM `nom_de_la_table` WHERE nom = 'Alice' AND email LIKE '%@gmail.com';
 ```
 
-🔹 Regrouper les résultats avec `GROUP BY`
+#### 📌 Regrouper les résultats avec `GROUP BY`
 ```bash
 SELECT email, COUNT(*) FROM `nom_de_la_table` GROUP BY email;
 ``` 
 
-🔹 Filtrer des groupes avec `HAVING`
+#### 📌 Filtrer des groupes avec `HAVING`
 ```bash
 SELECT email, COUNT(*) FROM `nom_de_la_table` GROUP BY email HAVING COUNT(*) > 1;
 ```
 
-🔹 Utiliser `INNER JOIN` pour lier des tables
+#### 📌 Utiliser `INNER JOIN` pour lier des tables
 ```bash
 SELECT utilisateurs.nom, commandes.produit FROM `nom_de_la_table`
 INNER JOIN commandes ON utilisateurs.id = commandes.utilisateur_id;
 ```
 
-🔹 Concatenation de colonnes avec `CONCAT`
+#### 📌 Concatenation de colonnes avec `CONCAT`
 ```bash
 SELECT CONCAT(nom, ' ', email) AS nom_email FROM `nom_de_la_table`;
 ```
 
-[Précédent](commandes-SQL.md) | [Suivant](assets/liens-utiles.md)
+[Précédent](commandes-SQL.md) | [Suivant](assets/schema-voyage-db.png)
