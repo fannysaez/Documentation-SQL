@@ -26,7 +26,8 @@ cd Documentation-SQL
    - [Liens vers ressources](liens-utiles.md)
 
    ### Exemple de schéma d'une de données "Voyage"<br>
-   - ![Schéma de la base de données "Voyage"](#/assets/schema-voyage-db.png)
+   - [![Schéma de la base de données "Voyage"](assets/schema-voyage-db.png)](assets/schema-voyage-db.png)
+
 
 <br><br>
 
@@ -46,9 +47,3 @@ cd Documentation-SQL
 │   ├── 📄 liens-utiles.md --> Liens vers des tutoriels et ressources
 │   ├── 🖼️ schema-voyage-db.png   --> Exemple de schéma de la base de données
 ```
-
-<!-- ### Explication de l'onglet>Concepteur :
-
-* Le concepteur permet de visualiser et de modifier les relations entre les tables de la base de données de manière intuitive et graphique.
-* Il offre une vue d'ensemble des structures de tables et de leurs connexions, facilitant ainsi la gestion et l'optimisation des bases de données. -->
-
