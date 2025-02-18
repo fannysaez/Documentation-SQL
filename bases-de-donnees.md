@@ -25,5 +25,8 @@ Les bases de données relationnelles utilisent différents types de données pou
 * VARCHAR(n) : Chaîne de caractères de longueur variable
 * TEXT : Texte long
 * DATE : Date (format YYYY-MM-DD)
-* DECIMAL : Nombre décimal avec une précision définie
+* DECIMAL : Nombre décimal avec une précision définie <br>
+
+[Retour](README.md)
+
 
