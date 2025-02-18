@@ -115,6 +115,6 @@ phpMyAdmin permet de gérer les utilisateurs MySQL et leurs permissions :<br>
     2.Restaurer<br>
     * Pour restaurer une base de données à partir d’un fichier d’export, clique sur Importer et sélectionne le fichier SQL ou autre format contenant les données sauvegardées.
 
-[Retour](readme.md)
+[Retour](README.md)
 
 
