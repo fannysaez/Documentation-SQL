@@ -2,7 +2,7 @@
 * J'ai travaillé sur la documentation SQL avec [**@Anais**](https://github.com/Nanas63), un grand merci 😉
 * [**@Noémie**](https://github.com/NoemieDML) à travailler aujourd'hui sur le site web (pas finaliser)
 
-### Procédure d'installation de git clone pour la documentation SQL
+## Procédure d'installation de git clone pour la documentation SQL
 
 #### Cloner le dépôt GitHub :
 - Ouvrez l'invite de commande <b>(cmd)</b> ou <b>Git Bash.</b><br>
