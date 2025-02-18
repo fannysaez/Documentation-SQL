@@ -25,8 +25,8 @@ cd Documentation-SQL
 📂 assets
    - [Liens vers ressources](liens-utiles.md)
 
-   ## Exemple de schéma d'une de données "Voyage"<br>
-   - ![Schéma de la base de données "Voyage"](/assets/schema-voyage-db.png)
+   ### Exemple de schéma d'une de données "Voyage"<br>
+   - ![Schéma de la base de données "Voyage"](#schema-voyage-db.png)
 
 <br><br>
 
@@ -44,7 +44,7 @@ cd Documentation-SQL
 │── 📄 exemples-requêtes.md       --> Exemples de requêtes pratiques
 │── 📂 assets        --> Dossier pour les images, liens, ou fichiers annexes
 │   ├── 📄 liens-utiles.md --> Liens vers des tutoriels et ressources
-│   ├── 🖼️ schema-voyage-db.png   --> Exemple de schéma de base de données
+│   ├── 🖼️ schema-voyage-db.png   --> Exemple de schéma de la base de données
 ```
 
 <!-- ### Explication de l'onglet>Concepteur :
