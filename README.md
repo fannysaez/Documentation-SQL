@@ -13,12 +13,19 @@ cd Documentation-SQL
 ```
 
 ## Table des matières 
+
+- 📂 Documentation-SQL
    - [Présentation de SQL](introduction.md)  
       - [Guide d'installation et d'utilisation de WAMP](installation.md) 
       - [Guide d'utilisation de PhpMyAdmin](phpmyadmin.md) 
       - [Explication sur les bases de données](bases-de-donnees.md) 
       - [Listing des commandes SQL](commandes-SQL.md) 
       - [Exemples de requêtes pratiques](exemples-requêtes.md) 
+
+         - 📂 assets
+               - [Liens vers des ressources - tutoriels](liens-utiles.md) 
+               - [Exemple de schéma d'une base de données "Voyage"](schema-voyage-db.png) 
+
 
 ### 🗂️ Structure de la documentation SQL
 ```bash
@@ -30,9 +37,9 @@ cd Documentation-SQL
 │── 📄 bases-de-donnees.md  --> Explication sur le base de données
 │── 📄 commandes-SQL.md      --> Liste des commandes SQL principales
 │── 📄 exemples-requêtes.md       --> Exemples de requêtes pratiques
-# │── 📂 ressources        --> Dossier pour les images, liens, ou fichiers annexes
-# │   ├── 📄 liens-utiles.md --> Liens vers des tutoriels et ressources
-# │   ├── 🖼️ schema-db.png   --> Exemple de schéma de base de données
+│── 📂 assets        --> Dossier pour les images, liens, ou fichiers annexes
+│   ├── 📄 liens-utiles.md --> Liens vers des tutoriels et ressources
+│   ├── 🖼️ schema-voyage-db.png   --> Exemple de schéma de base de données
 ```
 
 <!-- ### Explication de l'onglet>Concepteur :
