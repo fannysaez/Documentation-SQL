@@ -27,6 +27,9 @@ Une fois connecté, tu verras l’interface principale de phpMyAdmin, qui se com
 
     3. Zone principale : Affiche le contenu de la base de données ou de la table sélectionnée.
 
+![Interface PhpMyAdmin](assets/interface-phpmyadmin.png)
+
+
 ### 3. Créer une base de données<br>
 
 Pour créer une nouvelle base de données, suis ces étapes :<br>
