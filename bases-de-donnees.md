@@ -17,11 +17,15 @@ Chaque table possède une **clé primaire** pour identifier de manière unique c
 - Elle doit être unique pour `chaque enregistrement` et ne peut pas être `NULL`.
  ```
 
+ ![Clé primaire](assets/cle-primaire.png)
+
 #### b. Clé étrangère<br>
 
 ```bash
 - Une `clé étrangère` est une colonne qui fait référence à la clé primaire d’une autre table. Cela permet de lier deux tables ensemble. Par exemple, dans la table commandes, la colonne utilisateur_id est une clé étrangère qui fait référence à la clé primaire id dans la table utilisateurs.
 ```
+
+![Clés étrangères](assets/cles-etrangeres.png)
 
 ### 3. Les types de données dans une base de données relationnelle<br>
 
