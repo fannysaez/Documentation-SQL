@@ -28,7 +28,7 @@ Une fois l’installation terminée, vous pouvez lancer WAMP. Vous devriez voir 
 ![Lancer WAMP](assets/Lancer%20WAMP%20puis%20phpmyadmin.png)
 
    - Clique gauche sur l'icone **verte**<br><br>
-![Icône WAMP](/assets/icone_wampserver_vert.jpg)
+![Icône WAMP](assets/icone-wampserver-vert.png)
 
 ``` bash 
 Allez sur PhpMyAdmin
