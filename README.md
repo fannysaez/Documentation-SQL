@@ -14,7 +14,7 @@ cd Documentation-SQL
 
 # Table des matières 
    - [Présentation de SQL](introduction.md)  
-   - [Guide d'installatiojn et d'utilisation de WAMP](installation.md) 
+   - [Guide d'installation et d'utilisation de WAMP](installation.md) 
  
 
 
