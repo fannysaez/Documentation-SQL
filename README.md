@@ -22,13 +22,11 @@ cd Documentation-SQL
       - [Listing des commandes SQL](commandes-SQL.md) 
       - [Exemples de requêtes pratiques](exemples-requêtes.md) 
 
-   📂 assets
-      - [Liens vers ressources](liens-utiles.md)
-      - [Exemple de schéma d'une base de données "Voyage"](schema-voyage-db.png) 
+📂 assets
+   - [Liens vers ressources](liens-utiles.md)
+   - [Exemple de schéma d'une base de données "Voyage"](schema-voyage-db.png) 
 
-
-
-
+<br><br>
 
 # Documentation SQL
 
