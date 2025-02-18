@@ -21,15 +21,16 @@ Pour te connecter, utilise ces informations ou celles que tu as définies pendan
 
 Une fois connecté, tu verras l’interface principale de phpMyAdmin, qui se compose de plusieurs sections :<br>
 
-	•	Barre de navigation : Sur le côté gauche, tu peux voir une liste de tes bases de données. Cliquer sur une base de données te permet de voir ses tables.
+* Barre de navigation : Sur le côté gauche, tu peux voir une liste de tes bases de données. Cliquer sur une base de données te permet de voir ses tables.<br>
 
-	•	Menu supérieur : Il permet de naviguer entre les différentes fonctions de phpMyAdmin, telles que la création de bases de données, l’exécution de requêtes SQL, l’importation/exportation de données, etc.
+* Menu supérieur : Il permet de naviguer entre les différentes fonctions de phpMyAdmin, telles que la création de bases de données, l’exécution de requêtes SQL, l’importation/exportation de données, etc.<br>
 
-	•	Zone principale : Affiche le contenu de la base de données ou de la table sélectionnée.
+* Zone principale : Affiche le contenu de la base de données ou de la table sélectionnée.
 
 ### 3. Créer une base de données<br>
 
-Pour créer une nouvelle base de données, suis ces étapes :
+Pour créer une nouvelle base de données, suis ces étapes :<br>
+
 	1.	Dans la barre de navigation, clique sur l’option Base de données.
 	2.	Entrez un nom pour ta nouvelle base de données (par exemple, gestion_utilisateurs).
 	3.	Choisis un interclassement (par défaut, laisse le choix de utf8_general_ci).
