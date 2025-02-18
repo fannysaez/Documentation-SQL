@@ -2,15 +2,14 @@
 * J'ai travaillé sur la documentation SQL avec [**@Anais**](https://github.com/Nanas63), un grand merci 😉
 * [**@Noémie**](https://github.com/NoemieDML) à travailler aujourd'hui sur le site web (pas finaliser)
 
+### Procédure d'installation de git clone pour la documentation SQL
 
-## Procédure d'installation de git clone pour la documentation SQL
+#### Cloner le dépôt GitHub :
+- Ouvrez l'invite de commande <b>(cmd)</b> ou <b>Git Bash.</b><br>
 
-### Cloner le dépôt GitHub :
-- Ouvrez l'invite de commande <b>(cmd)</b> ou <b>Git Bash.</b><br><br>
-
-* Commencez par cloner le dépôt sur votre machine locale :<br>
-* Une fois le dépôt cloné, il est nécessaire d'installer les dépendances du projet.<br>
-* Pour ce faire, exécutez la commande suivante dans le terminal à la racine du projet :<br>
+1. Commencez par cloner le dépôt sur votre machine locale :<br>
+2. Une fois le dépôt cloné, il est nécessaire d'installer les dépendances du projet.<br>
+3. Pour ce faire, exécutez la commande suivante dans le terminal à la racine du projet :<br>
 
 ```bash
 git clone https://github.com/fannysaez/Documentation-SQL.git
