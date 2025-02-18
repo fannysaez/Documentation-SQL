@@ -13,7 +13,8 @@ cd Documentation-SQL
 ```
 
 # Table des matières 
-   -  [Présentation de SQL](introduction.md)  
+   - [Présentation de SQL](introduction.md)  
+   - [Guide d'installatiojn et d'utilisation de WAMP](installation.md) 
  
 
 
@@ -23,10 +24,10 @@ cd Documentation-SQL
 │── 📄 README.md         --> Introduction et guide d'utilisation
 │── 📄 introduction.md   --> Présentation de SQL
 │── 📄 installation-wamp.md  --> Guide d'installation et d'utilisation de WAMP
-│── 📄 bases-de-donnees.md  --> Explication sur les bases de données relationnelles
-│── 📄 commandes.md      --> Liste des commandes SQL principales
 │── 📄 phpmyadmin.md     --> Guide sur l'utilisation de phpMyAdmin
-│── 📄 exemples.md       --> Exemples de requêtes pratiques
+│── 📄 bases-de-donnees.md  --> Explication sur les bases de données relationnelles
+│── 📄 commandes-SQL.md      --> Liste des commandes SQL principales
+│── 📄 exemples-requêtes.md       --> Exemples de requêtes pratiques
 │── 📂 ressources        --> Dossier pour les images, liens, ou fichiers annexes
 │   ├── 📄 liens-utiles.md --> Liens vers des tutoriels et ressources
 │   ├── 🖼️ schema-db.png   --> Exemple de schéma de base de données
