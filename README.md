@@ -30,9 +30,9 @@ cd Documentation-SQL
 │── 📄 bases-de-donnees.md  --> Explication sur les bases de donnée
 │── 📄 commandes-SQL.md      --> Liste des commandes SQL principales
 │── 📄 exemples-requêtes.md       --> Exemples de requêtes pratiques
-│── 📂 ressources        --> Dossier pour les images, liens, ou fichiers annexes
-│   ├── 📄 liens-utiles.md --> Liens vers des tutoriels et ressources
-│   ├── 🖼️ schema-db.png   --> Exemple de schéma de base de données
+# │── 📂 ressources        --> Dossier pour les images, liens, ou fichiers annexes
+# │   ├── 📄 liens-utiles.md --> Liens vers des tutoriels et ressources
+# │   ├── 🖼️ schema-db.png   --> Exemple de schéma de base de données
 ```
 
 <!-- ### Explication de l'onglet>Concepteur :
