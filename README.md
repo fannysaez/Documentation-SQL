@@ -12,13 +12,13 @@ git clone https://github.com/fannysaez/Documentation-SQL.git
 cd Documentation-SQL
 ```
 
-# Table des matières 
+## Table des matières 
    - [Présentation de SQL](introduction.md)  
-   - [Guide d'installation et d'utilisation de WAMP](installation.md) 
+      - [Guide d'installation et d'utilisation de WAMP](installation.md) 
  
 
 
-## 🗂️ Structure de la documentation SQL
+### 🗂️ Structure de la documentation SQL
 ```bash
 📂  Documentation-SQL
 │── 📄 README.md         --> Introduction et guide d'utilisation
