@@ -13,7 +13,7 @@ cd Documentation-SQL
 ```
 
 # Table des matières 
-   -  [Présentation de SQL SQL](introduction.md)  
+   -  [Présentation de SQL](introduction.md)  
  
 
 
