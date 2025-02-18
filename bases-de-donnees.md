@@ -13,8 +13,8 @@ Chaque table possède une **clé primaire** pour identifier de manière unique c
 #### a. Clé primaire<br>
 
 ```bash
-- Une **clé primaire** est `une colonne ou un groupe de colonnes dans une table` qui permet d’identifier de manière **unique** `chaque ligne.`
-- Elle doit être unique pour `chaque enregistrement` et ne peut pas être ***NULL***.
+- Une `clé primaire` est `une colonne ou un groupe de colonnes dans une table` qui permet d’identifier de manière unique chaque ligne.
+- Elle doit être unique pour `chaque enregistrement` et ne peut pas être `NULL`.
  ```
 
 #### b. Clé étrangère<br>
