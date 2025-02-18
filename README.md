@@ -12,22 +12,25 @@ git clone https://github.com/fannysaez/Documentation-SQL.git
 cd Documentation-SQL
 ```
 
+# Table des matières 
+   -  [Présentation de SQL SQL](introduction.md)  
+ 
+
+
 ## 🗂️ Structure de la documentation SQL
 ```bash
-📂 Documentation-SQL
-│── 📄 README.md         # Introduction et guide d'utilisation
+📂  Documentation-SQL
+│── 📄 README.md         --> Introduction et guide d'utilisation
+│── 📄 introduction.md   --> Présentation de SQL
+│── 📄 installation-wamp.md  --> Guide d'installation et d'utilisation de WAMP
+│── 📄 bases-de-donnees.md  --> Explication sur les bases de données relationnelles
+│── 📄 commandes.md      --> Liste des commandes SQL principales
+│── 📄 phpmyadmin.md     --> Guide sur l'utilisation de phpMyAdmin
+│── 📄 exemples.md       --> Exemples de requêtes pratiques
+│── 📂 ressources        --> Dossier pour les images, liens, ou fichiers annexes
+│   ├── 📄 liens-utiles.md --> Liens vers des tutoriels et ressources
+│   ├── 🖼️ schema-db.png   --> Exemple de schéma de base de données
 ```
-
-## 1- Introduction à SQL 🛠️<br>
- **SQL** (**S**tructured **Q**uery **L**anguage) est un langage utilisé pour manipuler et gérer les bases de données relationnelles.
-
-### 📌 Pourquoi apprendre SQL ?<br>
-* Interagir avec des bases de données efficacement.
-* Extraire des informations utiles grâce à des requêtes.
-* Utilisé dans de nombreux systèmes de gestion de bases de données (MySQL ...).
-
-[Documentation sur SQL](https://fr.khanacademy.org/computing/computer-programming/sql-documentation)
-[les bases du SQL](https://fr.khanacademy.org/computing/computer-programming/sql)
 
 ### 🔹 Qu’est-ce qu’une base de données (base de données relationnelles) ?
 Une base de données est un ensemble structuré de données stockées et organisées de manière à faciliter leur accès et leur gestion.<br>
