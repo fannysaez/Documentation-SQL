@@ -15,8 +15,6 @@ cd Documentation-SQL
 ## Table des matières 
    - [Présentation de SQL](introduction.md)  
       - [Guide d'installation et d'utilisation de WAMP](installation.md) 
- 
-
 
 ### 🗂️ Structure de la documentation SQL
 ```bash
@@ -33,54 +31,11 @@ cd Documentation-SQL
 │   ├── 🖼️ schema-db.png   --> Exemple de schéma de base de données
 ```
 
-### 🔹 Qu’est-ce qu’une base de données (base de données relationnelles) ?
-Une base de données est un ensemble structuré de données stockées et organisées de manière à faciliter leur accès et leur gestion.<br>
-
-Une base de données relationnelle stocke des données sous forme de tables composées : <br>
-* **lignes (ou enregistrements)**
-* **colonnes (ou champs)**<br>
-
-Chaque table possède une **clé primaire** pour identifier de manière unique chaque ligne.
-
-## Installation et utilisation de WAMP sur Windows 🖥️
-
-### 📌 Qu'est-ce que WAMP ?
-WAMP (*Windows, Apache, MySQL, PHP*) est un environnement de développement permettant d’exécuter un serveur web en local avec MySQL.
-
-### 🚀 Installation de WAMP<br>
-1. **Télécharger WAMP**  
-   - Rendez-vous sur le site officiel : [https://www.wampserver.com/](https://www.wampserver.com/)  
-   - Téléchargez la version correspondant à votre système (32 ou 64 bits).
-   - Installez-le en suivant les instructions.
-
-2. **Lancer WAMP**  
-   - Ouvrez WAMP et assurez-vous que l’icône devient **verte** (cela signifie que le serveur fonctionne).
-   - Clique gauche sur l'icone **verte**
-
-   ``` bash 
-    Allez sur PhpMyAdmin
-    puis de nouveaux cliquez sur phpMyAdmin 5.2.1
-   ```
-
 ## phpMyAdmin : Interface web pour MySQL 🖥️
 
 ### 📌 Qu’est-ce que phpMyAdmin ?
 phpMyAdmin est une interface web qui permet de gérer facilement les bases de données MySQL.
 
-### 🚀 Accéder à phpMyAdmin
-1. **Démarrer WAMP** et vérifier que l’icône est **verte**.
-2. Ouvrir un navigateur et entrer l’URL :  
-
-```bash
-http://localhost/phpmyadmin/
-```
-3. Se connecter avec PhpMyAdmin(MySQL):
-
-``` bash
-Utilisateur : root
-Mot de passe : (laisser vide par défaut)
-puis cliquez sur connexion
-```
 
 ### ⌨️ Quelques commandes SQL essentielles :
 
