@@ -57,6 +57,7 @@ Une fois la table créée, tu peux ajouter des données en suivant ces étapes :
 	2.	Clique sur l’onglet Insérer.
 	3.	Remplis les champs avec les données que tu souhaites ajouter. Par exemple, pour la table utilisateurs, tu peux entrer un nom, un email, etc.
 	4.	Clique sur Exécuter pour insérer les données.
+    
 ### 6. Exécuter des requêtes SQL<br>
 
 phpMyAdmin te permet d’exécuter des requêtes SQL directement à partir de son interface.<br>
@@ -77,14 +78,14 @@ Pour modifier ou supprimer des données dans une table :<br>
 
 ### 8. Exporter et importer des données<br>
 
-phpMyAdmin permet d’exporter et d’importer des bases de données ou des tables sous différents formats, comme SQL, CSV, ou XML.<br>
+PhpMyAdmin permet d’exporter et d’importer des bases de données ou des tables sous différents formats, comme SQL, CSV, ou XML.<br>
 
 ***Exporter une base de données***<br>
 	1.	Sélectionne la base de données à exporter.
 	2.	Clique sur l’onglet Exporter.
 	3.	Choisis le format d’exportation (par exemple, SQL).
 	4.	Clique sur Exécuter pour télécharger le fichier.
-    
+
 ***Importer une base de données***<br>
 
 	1.	Sélectionne la base de données dans laquelle tu souhaites importer des données.
@@ -94,7 +95,8 @@ phpMyAdmin permet d’exporter et d’importer des bases de données ou des tabl
 
 ### 9. Créer des utilisateurs et gérer les permissions<br>
 
-phpMyAdmin permet de gérer les utilisateurs MySQL et leurs permissions :
+phpMyAdmin permet de gérer les utilisateurs MySQL et leurs permissions :<br>
+
 	1.	Clique sur l’onglet Utilisateurs.
 	2.	Pour créer un nouvel utilisateur, clique sur Ajouter un utilisateur.
 	3.	Remplis les informations nécessaires (nom d’utilisateur, mot de passe, hôte, etc.).
@@ -104,6 +106,6 @@ phpMyAdmin permet de gérer les utilisateurs MySQL et leurs permissions :
 ### 10. Sauvegarder et restaurer une base de données<br>
 
 ***Sauvegarder***<br>
-Pour sauvegarder une base de données, tu peux l’exporter en utilisant la méthode expliquée plus haut.<br>
+* Pour sauvegarder une base de données, tu peux l’exporter en utilisant la méthode expliquée plus haut.<br>
 ***Restaurer***<br>
-Pour restaurer une base de données à partir d’un fichier d’export, clique sur Importer et sélectionne le fichier SQL ou autre format contenant les données sauvegardées.
+* Pour restaurer une base de données à partir d’un fichier d’export, clique sur Importer et sélectionne le fichier SQL ou autre format contenant les données sauvegardées.
