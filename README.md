@@ -47,6 +47,12 @@ cd Documentation-SQL
 │── 📄 exemples-requêtes.md       --> Exemples de requêtes pratiques
 │── 📂 assets        --> Dossier pour les images, liens, ou fichiers annexes
 │   ├── 🖼️ schema-voyage-db.png   --> Exemple de schéma de la base de données
+│   ├── 🖼️ Lancer WAMP puis phpmyadmin.png   --> Exemple pour Lancer Wamp et PhpMyAdmin
+│   ├── 🖼️ icone-wampserver-vert.png   --> Exemple d'icône réussi pour wampserver
+│   ├── 🖼️ connexion-phpmyadmin.png   --> Exemple pour se connecter à PhpMyAdmin
+│   ├── 🖼️ interface-phpmyadmin.png   --> Exemple d'interface graphique de PhpMyAdmin
+│   ├── 🖼️ cle-primaire.png   --> Exemple dans la base de données pour la clé primaire
+│   ├── 🖼️ clés-etrangeres.png   --> Exemple dans la base de données pour les clés étrangères
 ```
 
 [Suivant](introduction.md) 
