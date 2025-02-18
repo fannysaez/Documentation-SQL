@@ -25,7 +25,10 @@ Une fois le fichier téléchargé, suivez ces étapes pour installer WAMP :<br>
 #### 3. Lancer WAMP<br>
 Une fois l’installation terminée, vous pouvez lancer WAMP. Vous devriez voir une icône WAMP dans la barre des tâches (en bas à droite de votre écran). Si l’icône est **verte**, cela signifie que WAMP fonctionne correctement. <br>
 
+![Lancer WAMP](assets/Lancer%20WAMP%20puis%20phpmyadmin.png)
+
    - Clique gauche sur l'icone **verte**
+![Icône WAMP](assets/icone-WAMP.png)
 
 ``` bash 
 Allez sur PhpMyAdmin
@@ -35,6 +38,8 @@ puis de nouveaux cliquez sur phpMyAdmin 5.2.1
 #### 4. Accéder à phpMyAdmin<br>
 WAMP inclut phpMyAdmin, un outil de gestion de bases de données MySQL via une interface web. <br>
 Pour y accéder, tapez simplement dans votre navigateur :
+
+![Connexion PhpMyAdmin](assets/connexion-phpmyadmin.png)
 
 ``` bash 
 http://localhost/phpmyadmin
