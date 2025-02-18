@@ -25,7 +25,7 @@ cd Documentation-SQL
 📂 assets
    - [Liens vers ressources](liens-utiles.md)
 
-   ### Exemple de schéma d'une de données "Voyage"<br>
+   ### Exemple de schéma d'une base de données "Voyage"<br>
       - [![Schéma de la base de données "Voyage"](assets/schema-voyage-db.png)](assets/schema-voyage-db.png)
 
 
