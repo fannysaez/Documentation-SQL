@@ -51,5 +51,4 @@ http://localhost/phpmyadmin
 * Le **mot de passe** pour accéder à votre base de données `vide`.
 
 
-[Précédent](introduction.md) | [Suivant](installation-wamp.md) <br>
-[Retour](README.md)
+[Précédent](introduction.md) | [Suivant](phpmyadmin.md) | [Liens utiles](assets/liens-utiles.md)  <br>
