@@ -140,4 +140,4 @@ FROM utilisateurs
 INNER JOIN commandes ON utilisateurs.id = commandes.utilisateur_id;
 ```
 
-[Retour](README.md)
+[Précédent](bases-de-donnees.md) | [Suivant](exemples-requêtes.md) | [Liens utiles](assets/liens-utiles.md)  <br>
