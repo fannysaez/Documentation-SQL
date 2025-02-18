@@ -23,7 +23,7 @@ cd Documentation-SQL
       - [Exemples de requêtes pratiques](exemples-requêtes.md) 
 
 📂 assets
-   - [Liens vers ressources](liens-utiles.md)
+   - [Liens vers ressources](assets/liens-utiles.md)
 
    ### Exemple de schéma d'une base de données "Voyage"<br>
    - [![Schéma de la base de données "Voyage"](assets/schema-voyage-db.png)](assets/schema-voyage-db.png)
