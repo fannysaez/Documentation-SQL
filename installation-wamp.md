@@ -51,4 +51,4 @@ http://localhost/phpmyadmin
 * Le **mot de passe** pour accéder à votre base de données `vide`.
 
 
-[Précédent](introduction.md) | [Suivant](phpmyadmin.md) | [Liens utiles](assets/liens-utiles.md)  <br>
+[Précédent](introduction.md) | [Suivant](phpmyadmin.md) <br>
