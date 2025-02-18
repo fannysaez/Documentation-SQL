@@ -85,6 +85,7 @@ Pour modifier ou supprimer des données dans une table :<br>
 PhpMyAdmin permet d’exporter et d’importer des bases de données ou des tables sous différents formats, comme SQL, CSV, ou XML.<br>
 
 ***Exporter une base de données***<br>
+
 	1.	Sélectionne la base de données à exporter.
 	2.	Clique sur l’onglet Exporter.
 	3.	Choisis le format d’exportation (par exemple, SQL).
