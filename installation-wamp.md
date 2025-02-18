@@ -10,7 +10,7 @@ Ce guide va t’aider à installer WAMP sur ton système.<br>
 #### 1. Télécharger WAMP<br>
 
 Allez sur le site officiel de WAMP pour télécharger la dernière version du logiciel :<br>
-   - Rendez-vous sur le site officiel : [https://www.wampserver.com/](https://www.wampserver.com/)<br>  
+   - Rendez-vous sur le site officiel : [Site Officiel WampServer](https://www.wampserver.com/)<br>  
 
 Assurez-vous de télécharger la version compatible avec votre version de Windows (32 ou 64 bits).<br>
 
