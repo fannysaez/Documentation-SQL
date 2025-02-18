@@ -45,9 +45,10 @@ Une fois que tu as créé une base de données, tu peux créer des tables pour y
 	2.	Dans la section Créer une table, entre un nom pour la table (par exemple, utilisateurs) et le nombre de colonnes que tu souhaites.
 	3.	Clique sur Exécuter pour continuer.
 	4.	Ensuite, tu peux définir les colonnes de la table :
-	•	Nom : Le nom de la colonne (par exemple, id, nom, email).
-	•	Type : Le type de données de la colonne (par exemple, INT, VARCHAR(100), TEXT).
-	•	Index : Choisir si la colonne est une clé primaire, index, ou index unique.
+    
+* Nom : Le nom de la colonne (par exemple, id, nom, email).
+* Type : Le type de données de la colonne (par exemple, INT, VARCHAR(100), TEXT).
+* Index : Choisir si la colonne est une clé primaire, index, ou index unique.
 
 Clique sur Enregistrer pour créer la table.<br>
 
