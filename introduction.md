@@ -11,5 +11,4 @@
 * Assurer l’intégrité et la sécurité des données.
 * Automatiser la gestion des données dans les applications.
 
-[Documentation sur SQL](https://fr.khanacademy.org/computing/computer-programming/sql-documentation)<br>
-[les bases du SQL](https://fr.khanacademy.org/computing/computer-programming/sql)
+[Retour](README.md)
