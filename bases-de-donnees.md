@@ -34,7 +34,7 @@ Les bases de données relationnelles utilisent différents types de données pou
 * DATE : Date (format YYYY-MM-DD)
 * DECIMAL : Nombre décimal avec une précision définie <br>
 ```
-<br>
+
 [Précédent](commandes-SQL.md) | [Suivant](exemples-requêtes.md)  <br>
 
 
