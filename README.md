@@ -28,9 +28,6 @@ cd Documentation-SQL
       - [Exemples de requêtes pratiques](exemples-requêtes.md) 
 
 📂 assets
-   - [Liens vers ressources](assets/liens-utiles.md)
-
-   ### Exemple de schéma d'une base de données "Voyage"<br>
    - [![Schéma de la base de données "Voyage"](assets/schema-voyage-db.png)](assets/schema-voyage-db.png)
 
 
@@ -49,7 +46,6 @@ cd Documentation-SQL
 │── 📄 commandes-SQL.md      --> Liste des commandes SQL principales
 │── 📄 exemples-requêtes.md       --> Exemples de requêtes pratiques
 │── 📂 assets        --> Dossier pour les images, liens, ou fichiers annexes
-│   ├── 📄 liens-utiles.md --> Liens vers des tutoriels et ressources
 │   ├── 🖼️ schema-voyage-db.png   --> Exemple de schéma de la base de données
 ```
 
