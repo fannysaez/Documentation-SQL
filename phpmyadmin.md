@@ -39,7 +39,8 @@ La base de données apparaîtra ensuite dans la barre de navigation.<br>
 
 ### 4. Créer une table<br>
 
-Une fois que tu as créé une base de données, tu peux créer des tables pour y stocker des données.
+Une fois que tu as créé une base de données, tu peux créer des tables pour y stocker des données.<br>
+
 	1.	Sélectionne la base de données où tu souhaites ajouter une table.
 	2.	Dans la section Créer une table, entre un nom pour la table (par exemple, utilisateurs) et le nombre de colonnes que tu souhaites.
 	3.	Clique sur Exécuter pour continuer.
@@ -52,12 +53,13 @@ Clique sur Enregistrer pour créer la table.<br>
 
 ### 5. Ajouter des données dans une table<br>
 
-Une fois la table créée, tu peux ajouter des données en suivant ces étapes :
+Une fois la table créée, tu peux ajouter des données en suivant ces étapes :<br>
+
 	1.	Clique sur la table à laquelle tu veux ajouter des données.
 	2.	Clique sur l’onglet Insérer.
-	3.	Remplis les champs avec les données que tu souhaites ajouter. Par exemple, pour la table utilisateurs, tu peux entrer un nom, un email, etc.
+	3.	Remplis les champs avec les données que tu souhaites ajouter. Par exemple, pour la table utilisateurs, tu peux entrer un nom, un     email, etc.
 	4.	Clique sur Exécuter pour insérer les données.
-    
+
 ### 6. Exécuter des requêtes SQL<br>
 
 phpMyAdmin te permet d’exécuter des requêtes SQL directement à partir de son interface.<br>
