@@ -40,7 +40,7 @@ cd Documentation-SQL
 │── 📄 introduction.md   --> Présentation de SQL
 │── 📄 installation-wamp.md  --> Guide d'installation et d'utilisation de WAMP
 │── 📄 phpmyadmin.md     --> Guide sur l'utilisation de phpMyAdmin
-│── 📄 bases-de-donnees.md  --> Explication sur le base de données
+│── 📄 bases-de-donnees.md  --> Explication sur la base de données
 │── 📄 commandes-SQL.md      --> Liste des commandes SQL principales
 │── 📄 exemples-requêtes.md       --> Exemples de requêtes pratiques
 │── 📂 assets        --> Dossier pour les images, liens, ou fichiers annexes
