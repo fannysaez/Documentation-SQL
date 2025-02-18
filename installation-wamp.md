@@ -49,3 +49,6 @@ http://localhost/phpmyadmin
    ``` 
 * Entrez le **nom d’utilisateur** `root` 
 * Le **mot de passe** pour accéder à votre base de données `vide`.
+
+
+[Retour](README.md)
