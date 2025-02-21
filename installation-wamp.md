@@ -45,7 +45,9 @@ puis de nouveaux cliquez sur phpMyAdmin 5.2.1
 WAMP inclut phpMyAdmin, un outil de gestion de bases de données MySQL via une interface web. <br>
 Pour y accéder, tapez simplement dans votre navigateur :
 
-![Connexion PhpMyAdmin](assets/connexion-phpmyadmin.png)
+<p align="center">
+  <img src="assets/connexion-phpmyadmin.png" alt="Connexion PhpMyAdmin">
+</p>
 
 ``` bash 
 http://localhost/phpmyadmin
