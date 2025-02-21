@@ -39,6 +39,6 @@ Les bases de données relationnelles utilisent différents types de données pou
 * DECIMAL : Nombre décimal avec une précision définie <br>
 ```
 
-[Précédent](commandes-SQL.md) | [Suivant](exemples-requêtes.md)  <br>
+[Précédent](phpmyadmin.md) | [Suivant](commandes-SQL.md)  <br>
 
 
