@@ -25,7 +25,7 @@ Une fois le fichier téléchargé, suivez ces étapes pour installer WAMP :<br>
 #### 3. Lancer WAMP<br>
 Une fois l’installation terminée, vous pouvez lancer WAMP. Vous devriez voir une icône WAMP dans la barre des tâches (en bas à droite de votre écran). Si l’icône est **verte**, cela signifie que WAMP fonctionne correctement. <br>
 
-![Lancer WAMP](assets/Lancer%20WAMP%20puis%20phpmyadmin.png)
+![Lancer WAMP](assets/Lancer%20WAMP%20puis%20phpmyadmin.png#center)
 
    - Clique gauche sur l'icone **verte**<br><br>
 
