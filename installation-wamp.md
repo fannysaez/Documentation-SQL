@@ -29,12 +29,11 @@ Une fois l’installation terminée, vous pouvez lancer WAMP. Vous devriez voir 
   <img src="assets/Lancer%20WAMP%20puis%20phpmyadmin.png" alt="Lancer WAMP">
 </p>
 
-<!-- ![Lancer WAMP](assets/Lancer%20WAMP%20puis%20phpmyadmin.png) -->
-
    - Clique gauche sur l'icone **verte**<br><br>
-
   
-![Icône WAMP](assets/icone-wampserver-vert.png)
+<p align="center">
+  <img src="assets/icone-wampserver-vert.png" alt="Icône WAMP">
+</p>
 
 
 ``` bash 
