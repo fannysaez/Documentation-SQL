@@ -38,7 +38,9 @@ Les bases de données relationnelles utilisent différents types de données pou
 * DATE : Date (format YYYY-MM-DD)
 * DECIMAL : Nombre décimal avec une précision définie <br>
 ```
+<br>
+<p align="center">
+  <a href="phpmyadmin.md">Précédent</a> | <a href="commandes-SQL.md">Suivant</a><br>
 
-[Précédent](phpmyadmin.md) | [Suivant](commandes-SQL.md)  <br>
 
 
