@@ -26,6 +26,7 @@ Une fois connecté, tu verras l’interface principale de phpMyAdmin, qui se com
     2. Menu supérieur : Il permet de naviguer entre les différentes fonctions de phpMyAdmin, telles que la création de bases de données, l’exécution de requêtes SQL, l’importation/exportation de données, etc.<br>
 
     3. Zone principale : Affiche le contenu de la base de données ou de la table sélectionnée.
+<br>
 
 ![Interface PhpMyAdmin](assets/interface-phpmyadmin.png)
 
