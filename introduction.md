@@ -11,4 +11,6 @@
 * Assurer l’intégrité et la sécurité des données.
 * Automatiser la gestion des données dans les applications.
 
-[Précédent](README.md) | [Suivant](installation-wamp.md)  <br>
+<p align="center">
+  <a href="README.md">Précédent</a> | <a href="installation-wamp.md">Suivant</a>
+</p>
