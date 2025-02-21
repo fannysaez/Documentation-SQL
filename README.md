@@ -55,4 +55,6 @@ cd Documentation-SQL
 │   ├── 🖼️ clés-etrangeres.png   --> Exemple dans la base de données pour les clés étrangères
 ```
 
-[Suivant](introduction.md) 
+<p align="center">
+  <a href="introduction.md">Suivant</a>
+</p>
