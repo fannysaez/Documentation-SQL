@@ -140,4 +140,7 @@ FROM utilisateurs
 INNER JOIN commandes ON utilisateurs.id = commandes.utilisateur_id;
 ```
 
-[Précédent](bases-de-donnees.md) | [Suivant](exemples-requêtes.md) <br>
+<br>
+<p align="center">
+  <a href="bases-de-donnees.md">Précédent</a> | <a href="exemples-requêtes.md">Suivant</a><br>
+
